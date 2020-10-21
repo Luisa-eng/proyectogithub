@@ -1,0 +1,6 @@
+[1021/161155.487:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1021/161222.975:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\luisamaria\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c75f520a-ff24-45f1-b9bd-46dc46d5677b: El sistema no puede encontrar la ruta especificada. (0x3)
+[1021/161223.495:ERROR:process_reader_win.cc(155)] SuspendThread: Acceso denegado. (0x5)
+[1021/161224.675:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\luisamaria\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\1e757658-40dd-4d35-a9b6-0f190a135b86: El sistema no puede encontrar la ruta especificada. (0x3)
+[1021/161225.626:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\luisamaria\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6c6980a4-539d-4b0c-9d45-ddce110120b4: El sistema no puede encontrar la ruta especificada. (0x3)
+[1021/161226.613:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\luisamaria\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\75af017d-3a98-4c8c-a748-bfdbaff2122d: El sistema no puede encontrar la ruta especificada. (0x3)
